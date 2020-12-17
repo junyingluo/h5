@@ -1,0 +1,22 @@
+{
+  "name": "h5",
+  "version": "0.1.0",
+  "summary": "A short description of h5.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/494634876@qq.com/h5",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "494634876@qq.com": "494634876@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/494634876@qq.com/h5.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "h5/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - h5 (0.1.0)
+
+DEPENDENCIES:
+  - h5 (from `../`)
+
+EXTERNAL SOURCES:
+  h5:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  h5: 1f45ad0d6983306beb294915366d6b0bdc02ed0d
+
+PODFILE CHECKSUM: a4f90da236783ef008793881dd6382b8f0c6efea
+
+COCOAPODS: 1.10.0
