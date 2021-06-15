@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'h5'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of h5.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'h5/Classes/**/*'
   
-  s.vendored_framework   = 'h5.framework'
+  s.vendored_frameworks   = 'Example/Build/Products/Release-iphoneos/h5/h5.framework'
   
   # s.resource_bundles = {
   #   'h5' => ['h5/Assets/*.png']
