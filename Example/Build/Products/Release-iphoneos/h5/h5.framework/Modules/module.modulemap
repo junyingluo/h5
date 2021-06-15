@@ -1,0 +1,11 @@
+framework module h5 {
+  umbrella header "h5-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module h5.Swift {
+    header "h5-Swift.h"
+    requires objc
+}
