@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'h5'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'A short description of h5.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'junyingluo' => '494634876@qq.com' }
-  # s.source           = { :git => 'https://github.com/junyingluo/h5.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/junyingluo/h5.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
