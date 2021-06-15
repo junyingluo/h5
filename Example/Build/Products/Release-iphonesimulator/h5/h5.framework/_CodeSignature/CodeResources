@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		yN0Wh9wmJxE+UsKZCKfR/79O4GA=
+		</data>
 		<key>Headers/h5-Swift.h</key>
 		<data>
 		klyVwXPJk9VEtXNWC7tc08O11QI=
@@ -15,6 +19,10 @@
 		<key>Info.plist</key>
 		<data>
 		blmEvBXcGaRfd2uqJM8yii+cvRQ=
+		</data>
+		<key>Modules/.DS_Store</key>
+		<data>
+		9KRxyMrFlZsn3oNpilGyupOK/y0=
 		</data>
 		<key>Modules/h5.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
